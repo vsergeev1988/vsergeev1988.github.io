@@ -2,19 +2,7 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "E2F7Y4PFM9.com.telepado.meetora.ios-client-enterprise-alpha",
-            "paths": ["*"]
-        },
-        {
-            "appID": "E2F7Y4PFM9.com.telepado.meetora.ios-client-enterprise-alpha-dev-env",
-            "paths": ["*"]
-        },
-        {
-            "appID": "E2F7Y4PFM9.com.telepado.meetora.ios-client-enterprise-dev-env",
-            "paths": ["*"]
-        },
-        {
-            "appID": "785BR75P23.com.meetora.ios-client",
+            "appIDs": ["E2F7Y4PFM9.com.telepado.meetora.ios-client-enterprise-alpha", "E2F7Y4PFM9.com.telepado.meetora.ios-client-enterprise-alpha-dev-env", "E2F7Y4PFM9.com.telepado.meetora.ios-client-enterprise-dev-env", "785BR75P23.com.meetora.ios-client"],
             "paths": ["*"]
         }]
     }
