@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "E2F7Y4PFM9.com.telepado.meetora.ios-client-enterprise-alpha",
+            "paths": ["*"]
+        }]
+    }
+}
